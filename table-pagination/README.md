@@ -45,7 +45,7 @@ This project displays student data in a table and provides pagination functional
 
 ## 📸 Screenshot
 
-![Table Pagination](src/assets/screenshots/table-pagination.png)
+![Table Pagination](src/assets/student-management-system.png)
 
 ## 📁 Project Structure
 
