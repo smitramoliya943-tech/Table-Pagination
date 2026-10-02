@@ -38,6 +38,15 @@ This project displays student data in a table and provides pagination functional
 
 ---
 
+## 🎥 Project Video
+
+[▶️ Watch Project Video](src/assets/videos/table-pagination.mp4)
+
+
+## 📸 Screenshot
+
+![Table Pagination](src/assets/screenshots/table-pagination.png)
+
 ## 📁 Project Structure
 
 ```text
